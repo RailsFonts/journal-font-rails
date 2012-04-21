@@ -1,0 +1,1 @@
+require "journal-font-rails/engine"
